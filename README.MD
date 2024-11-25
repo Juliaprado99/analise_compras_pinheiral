@@ -6,7 +6,7 @@ As análises incluem algumas métricas como: Média por fornecedor, valor total 
 
 Além desses resultados, temos também dois gráficos a serem visualizados, conforme imagens abaixo.
 
-O primeiro gráfico corresponde a compras diretas da cidade de pínheiral por meses.
+O primeiro gráfico corresponde a compras diretas da cidade de Pinheiral por meses.
 
 ![Um gráfico de barras corresponde a compras diretas da cidade de pínheiral por meses](/grafico1.png)
 
