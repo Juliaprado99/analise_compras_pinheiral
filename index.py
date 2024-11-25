@@ -108,5 +108,3 @@ media_filtrada_50mil.plot(kind='barh', figsize=(12, 6), x='Fornecedor', y='Valor
 plt.title("Média dos 9 maiores fornecedores")
 plt.xlabel('Valores')
 plt.ylabel('Fornecedores')
-plt.gca().yaxis.set_major_locator(ticker.MaxNLocator(integer=True))
-plt.gca().yaxis.set_major_formatter(ticker.FuncFormatter(lambda x, _: f'{x:,.0f}'))
