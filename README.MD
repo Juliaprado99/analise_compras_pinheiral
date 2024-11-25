@@ -17,5 +17,5 @@ O segundo gráfico corresponde a média de valores recebeidos por 9 fornecedores
 
 Fonte de todas as informações contidas nesse relatorio: https://transparencia.betha.cloud/#/LxwrdDMDjzGjXmlXr0SUBg==/consulta/114210
 
-![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO%20&color=BLUE&style=for-the-badge)
+![Badge EM DESENVOLVIMENTO](http://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO%20&color=BLUE&style=for-the-badge)
 
