@@ -1,7 +1,10 @@
 <h1 align="center">Uma análise das compras diretas da Prefeitura de Pinheiral</h1>
 
 <p align="center">Tecnologia Utilizada para este projeto:</p>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+</p>
 
 <p>O projeto se trata de uma análise feita em dados do Portal da Transparência. Os dados analisados são relacionados a compras diretas realizadas pela Prefeitura Municipal de Pinheiral. 
 
